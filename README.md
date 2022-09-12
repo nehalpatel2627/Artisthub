@@ -1,1 +1,2 @@
 # Artisthub
+The Artist Hub, web-based application is proposed with aim to facilitate customers to book any type of artist online for different occasions such as Marriage, Party, Live Event etc. Customers can book many type of artists like Dancer, Musician, Painter, Actor and Singer etc.  The customers will be able to book artist from anywhere. Artist Fee will be paid online Credit/Debit card option or Online/UPI. The admin will manage artist information, payment information, and user’s information etc.
